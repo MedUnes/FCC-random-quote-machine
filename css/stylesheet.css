@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Dancing+Script');
+body
+{
+  padding:42px;
+  font-family:"Lato",Serif;
+  background-color:#eee;
+  font-family: 'Dancing Script', sans-serif; 
+}
+h1
+{
+  font-size:68px;
+}
+#main-board .row,#main-board .col-xs-12
+{
+  margin-bottom:32px;
+}
+#random-quote
+{
+  border:1px #666 solid;
+  border-radius:10px;
+  padding:32px; 
+  font-size:32px;
+  font-family: 'Dancing Script', sans-serif; 
+}
+#new-quote
+{
+  font-family:'Lato' !important;
+  font-size:24px !important;
+  height:60px !important;
+}
+
+.fa-twitter
+{
+  color:#1c9bea !important;
+  
+}
+.fa-twitter
+{
+  border:1px solid #1c9bea;
+ padding:8px;
+  border-radius:10px;
+}
+.fa-twitter:hover
+{
+  color:#fff !important ;
+  background-color:#1c9bea;
+}
