@@ -1,4 +1,4 @@
-# FCC-random-quote-machine
+FCC-random-quote-machine
 -------------
 The random code machine generator challenge for freeCodeCamp
 
